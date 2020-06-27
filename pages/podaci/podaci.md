@@ -2,4 +2,4 @@
 
 Tu su podaci .
 Ako idemo na planiranje:
-[Planiranje](../../podaci/planiranje/planiranje.md)
+[Planiranje](../planiranje/planiranje.md)
