@@ -1,7 +1,7 @@
 # Main menu
 
-- [Help](pages/help/help.md)
-- [Login](pages/login/login.md)
-- [Podaci](pages/podaci/podaci.md)
-- [Planiranje](pages/planiranje/planiranje.md)
-- [Test1](pages/test1/test1.md)
+- [Help](pages_sr/help/help.md)
+- [Login](pages_sr/login/login.md)
+- [Podaci](pages_sr/podaci/podaci.md)
+- [Planiranje](pages_sr/planiranje/planiranje.md)
+- [Test1](pages_sr/test1/test1.md)

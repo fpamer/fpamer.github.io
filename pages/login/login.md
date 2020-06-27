@@ -1,4 +1,0 @@
-# Login
-
-![Image](login.jpg)
-
