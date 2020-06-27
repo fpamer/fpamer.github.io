@@ -40,6 +40,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Main manu
 
-- [Podaci] (https://github.com/fpamer/fpamer.github.io/podaci/podaci.md)
-- [Planiranje] (https://github.com/fpamer/fpamer.github.io/planiranje/planiranje.md)
+- [Podaci] (https://fpamer.github.io/podaci/podaci.md)
+- [Planiranje] (https://fpamer.github.io/planiranje/planiranje.md)
 
