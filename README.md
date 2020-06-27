@@ -40,6 +40,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Main manu
 
-- [Podaci] (podaci/podaci)
-- [Planiranje] (planiranje/planiranje)
+- [Podaci](podaci/podaci)
+- [Planiranje](planiranje/planiranje)
 
