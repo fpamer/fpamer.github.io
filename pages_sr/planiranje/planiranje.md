@@ -1,3 +1,0 @@
-# Planiranje menu
-
-Planiranje proizvodnje.
