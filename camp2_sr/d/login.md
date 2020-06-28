@@ -1,4 +1,4 @@
 # Login
 
-![Image](../../camp2_img/login.jpg)
+![Image](login.jpg)
 
