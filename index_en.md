@@ -1,11 +1,11 @@
 Startovanje programa: 
 
-- [Login](camp2_sr/d/login.md)
+- [Login](camp2_en/d/login.md)
 
 
 
 # Main menu
 
-- [File](camp2_sr/x/file.md)
-- [Podaci](camp2_sr/m/podaci.md)
-- [Planiranje](camp2_sr/p1/planiranje.md)
+- [File](camp2_en/x/x.md)
+- [Datas](camp2_en/m/m.md)
+- [Planning](camp2_en/p1/p1.md)

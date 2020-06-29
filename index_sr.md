@@ -6,6 +6,6 @@ Startovanje programa:
 
 # Main menu
 
-- [File](camp2_sr/x/file.md)
-- [Podaci](camp2_sr/m/podaci.md)
-- [Planiranje](camp2_sr/p1/planiranje.md)
+- [File](camp2_sr/x/x.md)
+- [Podaci](camp2_sr/m/m.md)
+- [Planiranje](camp2_sr/p1/p1.md)

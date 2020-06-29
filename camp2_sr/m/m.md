@@ -5,7 +5,7 @@
 - [Proizvod](mk003/mk003.md)
 
 Ako idemo na planiranje:
-[Planiranje](../p1/planiranje.md)
+[Planiranje](../p1/p1.md)
 
 # Podaci opis
 
