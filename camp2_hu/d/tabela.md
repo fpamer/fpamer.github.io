@@ -55,7 +55,7 @@ A **Filter** mezőre kattintva be tudunk írni egy keresett kifelyzést és a pr
 Ha a **Filter** mezőre kattintunk megjelenik a mező elején egy betű. A betűre kattintva megjelin egy popupablak:
 
 
-![image](tablazatfilter.jpg)
+![image](hutablazatfilter.jpg)
 
 A legördülő listán ki tudjuk választani a keresés módját.
 
