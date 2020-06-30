@@ -11,7 +11,6 @@ U gornji deo se nalazi naslov tabele npr.: "Izbor sirovine", sterilce za listanj
 
 ![image](tablazaglavje.jpg)
 
-### Dugme **Spec.** i funkcije
 
 Sa klikom na dugme **Spec.** dobijamo popup prozor:
 
@@ -27,15 +26,38 @@ Prozor "Specijalne funkcije" se zatvara sa dugmetom **X** ili sa tasterom `Escap
 ## Tabela se sastoji od horizontalnih delova:
 
 1. Red sa nazivima
-3. Red sa filterima
-4. Redovi sa podacima
+2. Red sa filterima
+3. Redovi sa podacima
 
 
 
-## 1. Zaglavlje
 
-## 2. Nazivi
+## 1. Red sa nazivima
 
-## 3. Filteri
+Gde se nalazi nazivi kolone u tabeli. Sa klikom na bilo koje polje u redu dobijamo popup prozor:
 
-## 4. Redovi sa podacima
+![image](tabelanaziv.jpg)
+
+"Size:" sa strelicama se menja širina kolone
+
+"List:" kad se stavlja *X* u kocku, ispod naziva u **Filter** polja daje opadajuću listu svih vrednosti te kolone
+
+"Rastući:" i "Opadajući:" kad se stavlja *X* u kocku, vrednosti u koloni su sortirani uzlaznim ili silaznim redosledom
+
+Sa strelicama ispod možemo menjati redosled kolona.
+
+## 2. Red sa filterima
+
+
+Klikom u polje **Filter** možemo upisati neki izraz i program filtrira samo one redove koji sadrže taj izraz u toj koloni.
+
+Klikom na početno slovo polja dobijamo popup prozor:
+
+![image](tabelafilter.jpg)
+
+Na opadajućoj listi možemo izabrati način pretrage.
+
+
+## 3. Redovi sa podacima
+
+Služe za prikaz podataka. Samo aktivna polja (tamno zelena) daju mogućnost dalje obrade poadataka.
