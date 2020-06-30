@@ -29,7 +29,7 @@ Prozor "Specijalne funkcije" se zatvara sa dugmetom **X** ili sa tasterom `Escap
 2. Red sa filterima
 3. Redovi sa podacima
 
-
+![image](tabelastrelac.jpg)
 
 
 ## 1. Red sa nazivima
@@ -38,11 +38,11 @@ Gde se nalazi nazivi kolone u tabeli. Sa klikom na bilo koje polje u redu dobija
 
 ![image](tabelanaziv.jpg)
 
-"Size:" sa strelicama se menja širina kolone
+"Size:" sa strelicama se menja širina kolone.
 
-"List:" kad se stavlja *X* u kocku, ispod naziva u **Filter** polja daje opadajuću listu svih vrednosti te kolone
+"List:" kad se stavlja *X* u kocku, ispod naziva u **Filter** polja daje opadajuću listu svih vrednosti te kolone.
 
-"Rastući:" i "Opadajući:" kad se stavlja *X* u kocku, vrednosti u koloni su sortirani uzlaznim ili silaznim redosledom
+"Rastući:" i "Opadajući:" kad se stavlja *X* u kocku, vrednosti u koloni su sortirani uzlaznim ili silaznim redosledom.
 
 Sa strelicama ispod možemo menjati redosled kolona.
 

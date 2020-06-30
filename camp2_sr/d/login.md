@@ -15,7 +15,7 @@ U polje " Godina: " se izabere aktivna godina
 u kojoj želimo da radimo.
 
 Taster `Enter` na tastaturi završava unos, ali
-isto se dešava i klikom na dugme **Enter**
+isto se dešava i klikom na dugme **Enter**.
 
 
 
