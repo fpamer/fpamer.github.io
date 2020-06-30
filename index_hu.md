@@ -1,7 +1,7 @@
-Programa startolaskor: 
+# Közös program-dokumentació: 
 
 - [Login](camp2_hu/d/login.md)
-
+- [Táblák](camp2_hu/d/tabela.md)
 
 
 # Main menu
