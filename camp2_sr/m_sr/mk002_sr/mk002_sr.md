@@ -39,11 +39,11 @@ Dobijamo podatke upisanog materijala.
 Na ovom prozoru postoje tasteri:
 - **Sastavnica**
 - **Ugradnja** - prikazuje u koje proizvode se ugrađuje materijal
-- **Crtež** - prikazuje dokumentacija (crteži) koji su vezani za taj materijal
-- **Promet** - prikazuje promet u magacinima koji je vezan za taj materijal
+- **Crtež** - prikazuje dokumentaciju (crteži) koji su vezani za taj materijal
+- **Promet** - prikazuje promet u magacinima koji su vezani za taj materijal
 - **Nabava** - pregled prometa i dokumenata nabavke
 - **Nab.pod** (Nabavni podaci) - lista dobavljača od kojih firma najčešće kupuje
 - **Etiketa** - štampanje etikete
-- **Kalk-cene** - ovde upisuje firma trgovačku prodajnu cenu materijala
+- **Kalk-cene** - ovde firma upisuje trgovačku prodajnu cenu materijala
 - **Modif** - sa klikom na dugme program spašava izmene u bazu podataka
 - **Brisanje** - program briše izabrani materijal iz baze, ali pre toga proverava da li se taj materijal sme brisati
