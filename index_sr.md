@@ -1,11 +1,11 @@
 # Zajednička dokumentacija programa: 
 
-- [Login](camp2_sr/d/login.md)
-- [Tabele](camp2_sr/d/tabela.md)
+- [Login](camp2_sr/d_sr/login_sr.md)
+- [Tabele](camp2_sr/d_sr/tabela_sr.md)
 
 
 # Main menu
 
-- [File](camp2_sr/x/x.md)
-- [Podaci](camp2_sr/m/m.md)
-- [Planiranje](camp2_sr/p1/p1.md)
+- [File](camp2_sr/x_sr/x_sr.md)
+- [Podaci](camp2_sr/m_sr/m_sr.md)
+- [Planiranje](camp2_sr/p1_sr/p1_sr.md)
