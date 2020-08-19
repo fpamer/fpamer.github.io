@@ -9,3 +9,4 @@
 - [File](camp2_sr/x_sr/x_sr.md)
 - [Podaci](camp2_sr/m_sr/m_sr.md)
 - [Planiranje](camp2_sr/p1_sr/p1_sr.md)
+- [Fakture](camp2_sr/f0_sr/f0_sr.md)
