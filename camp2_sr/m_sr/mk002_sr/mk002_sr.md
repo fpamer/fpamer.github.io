@@ -47,3 +47,39 @@ Na ovom prozoru postoje tasteri:
 - **Kalk-cene** - ovde firma upisuje trgovačku prodajnu cenu materijala
 - **Modif** - sa klikom na dugme program spašava izmene u bazu podataka
 - **Brisanje** - program briše izabrani materijal iz baze, ali pre toga proverava da li se taj materijal sme brisati
+
+## Oblici repromaterijala maš.obrade
+
+Oblici repromaterijala mašinske obrade su definisani unutar programa 
+da bi program mogao da kalkuliše težinu i površinu tih delova.
+
+- Ploča - kvad,krug,elip,trougao
+- Kvad.traka
+- Kvad.flah
+- Profilna cev
+- Šestougaoni OK
+- Šestougaoni OK-cev
+- Okrugla šipka
+- Žica
+- Okrugla cev
+- L-profil
+- I-profil
+- T-profil
+- U-profil
+- Profil-spec
+- Ploča bez dimenzije
+- Odlivak,otkovak
+
+Kod podataka repromaterijale program zahteva unos osnovnih mera
+za dotični oblik. Pomoćne dimenzije program traži onda, kada radimo
+kalkulaciju odsečenog lima za neki proizvod (kod definisanja sastavnice).
+
+Na primer Ako je oblik lim, onda program zahteva upis debljine lima,
+dok širinu i dužinu traži kod definisanja sastavnice.
+
+Zbog ovoga mi ne moramo upisati novu šifru materijala, ako se taj
+razlikuje samo u pomoćnim merama.
+
+
+
+
