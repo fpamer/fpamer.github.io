@@ -11,3 +11,4 @@
 - [Planiranje](camp2_sr/p1_sr/p1_sr.md)
 - [Fakture](camp2_sr/f0_sr/f0_sr.md)
 - [Plata](camp2_sr/l_sr/l_sr.md)
+- [Zaposleni](camp2_sr/z_sr/z_sr.md)
