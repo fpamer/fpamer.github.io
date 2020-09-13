@@ -2,8 +2,8 @@
 
 Podmenu "Zaposleni" se poziva iz glavnog menija [Glavni meni](../../index_sr.md)
 
-- [Obračun Plate](ob602_sr/ob602_sr.md)
----
+- [Obračun Plate](ob602_sr/ob602_sr.md) 
+- [---]
 - [Žiro-račun](ob001_sr/ob001_sr.md)
 - [Časovi](ob002_sr/ob002_sr.md)
 - [Opštine](ob003_sr/ob003_sr.md)
