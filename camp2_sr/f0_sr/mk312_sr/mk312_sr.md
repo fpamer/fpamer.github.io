@@ -31,8 +31,13 @@ Redove prodaje možemo uvesti i automatski:
 - "Dodati Otpremnicu" ako je već uneta
 - "Dodati predajnicu" iz proizvodnje
 
-Aku redove unosimo ručno, onda u prvi red prodaju upisujemo sa tasterom "Insert".
+Na desnom delu gornjeg ekrana imamo mogućnost uključivanja "Cene partnera",
+koji daje specijalne proivode i specijelne cene izabranog kupca.
+
+Ako redove unosimo ručno, onda u prvi red prodaju upisujemo sa tasterom "Insert".
+
 Posle upisanog reda novi red dodajemo tako što na Rbr1 tog reda stisnemo desni klik.
+
 Levi klik služi za modifikaciju nekog reda fakture:
 
 ![Image](fakt004.jpg)
