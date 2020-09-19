@@ -21,6 +21,9 @@ Na sledećoj strani su parametri štampe računa:
 
 ![Image](fakt002.jpg)
 
+Taster "Knjiž-IF" služi za automatsko knjiženje izlazne fakture: 
+[Knjiž-IF](knjiz_if_sr.md)
+
 Pritiskom na taster "Podaci" ulazimo u deo programa za upis redova fakture:
 
 ![Image](fakt003.jpg)
