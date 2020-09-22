@@ -11,3 +11,7 @@ Ovde za svaki posao upisujemo datume važenja:
 
 Posao radnika biramo iz organizacione šeme:
 [Organiz.Šema](../../l_sr/ob101_sr/ob101_sr.md)
+
+Ebod je bruto satnica radnika.
+Kod obračuna plate se on množi sa koeficijentom 
+za obračun boda i tako dobijamo bruto cenu rada po času.
