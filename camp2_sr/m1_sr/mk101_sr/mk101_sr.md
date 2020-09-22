@@ -1,6 +1,6 @@
 # Grupa poslova
 
-Program Grupa polova se poziva iz menija [Podaci](../m_sr.md)
+Program Grupa polova se poziva iz menija [Osnov.Podaci](../m1_sr.md)
 
 ![Image](grpos01.jpg)
 
