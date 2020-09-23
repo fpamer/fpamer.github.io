@@ -14,7 +14,7 @@ kod rasporeda radika: [Raspored-radnika](../../z_sr/ob104_sr/ob104_sr.md)
 
 Pritiskom na **"Podaci"** ulazimo u deo sa podacima plate radnika:
 
-![Image](pl_ob01.jpg)
+![Image](pl_ob02.jpg)
 
 Kod obračuna minulog rada izabrati:
 - F za obračun dodatka samo na staž u firmi
