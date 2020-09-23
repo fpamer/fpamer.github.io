@@ -14,7 +14,18 @@ kod rasporeda radika: [Raspored-radnika](../../z_sr/ob104_sr/ob104_sr.md)
 
 Pritiskom na **"Podaci"** ulazimo u deo sa podacima plate radnika:
 
+![Image](pl_ob01.jpg)
+
+Kod obračuna minulog rada izabrati:
+- F za obračun dodatka samo na staž u firmi
+- U za obračun dodatka na osnovu ukupnog staža
+
+Ako iy leve tabele kliknemo na konkretan radnik,
+dobijamo podatke radnika za taj mesec:
+
 ![Image](pl00002.jpg)
+
+Dole dodajemo časove radnika po šiframa rada.
 
 Prosek i Dani ne moraju da se pune, samo u izuzetnim slučajevima.
 Prosek onda, kada je prosek drugačiji od godišnjeg proseka.
