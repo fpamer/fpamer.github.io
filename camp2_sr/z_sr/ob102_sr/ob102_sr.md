@@ -23,6 +23,9 @@ Prilikom unosa podataka obavezno moramo upisati:
 
 ![Image](zap0002.jpg)
 
+Staž upisujemo radi kalkulacije minulog rada.
+Staž pre RO ne upisati , ako za ta vremena firma ne priznaje dodatak za minuli rad.
+
 Posle upisa Matičnih podataka sledi upis njegovog rasporeda u programu 
  [Raspored-Radnika](../ob104_sr/ob104_sr.md)
 
