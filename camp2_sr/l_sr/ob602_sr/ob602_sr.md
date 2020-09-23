@@ -20,7 +20,17 @@ Kod obračuna minulog rada izabrati:
 - F za obračun dodatka samo na staž u firmi
 - U za obračun dodatka na osnovu ukupnog staža
 
-Ako iy leve tabele kliknemo na konkretan radnik,
+Taster "Obr.proseka" obavezno pritisnuti, ako želimo
+automatski upis proseka svakog radnika.
+
+Taster "Obr.Regresa" kalkuliše regres posebnim programom, ako je
+taj program uključen kod firme, u protivnom upisuje fikni regres kod svakog.
+
+Ostale obrade program radi kada pritisnemo taster "Obračun-pl.",
+tj: obradu kredita,radnog staža,putnih troškova, naknade za porodj. 
+i bolovanje preko siz.
+
+Ako iz leve tabele kliknemo na konkretan radnik,
 dobijamo podatke radnika za taj mesec:
 
 ![Image](pl00002.jpg)
