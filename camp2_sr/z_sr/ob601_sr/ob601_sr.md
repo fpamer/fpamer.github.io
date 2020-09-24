@@ -16,6 +16,10 @@ Ako već imamo x uplaćenih rata, onda razlika placen-do minus pocetak otplate m
 Kod obračuna plate program automatski računa odbijene rate,
 ako smo kod meseca označili da želimo automatsku obradu.
 
+Program uzima u obzir isplaćene rate, ukupan dug i rok otplate.
+Datum početka otplate i plaćen do je samo informativnog karaktera,
+kao i datum uplate rate.
+
 Ako kredit miruje, onda staviti da je faza Z , kao da je zatvorena, pa program neće odbiti rate.
 
 Ako se kredit ponovo aktivira, onda rucno mora da se popravi datum pocetka otplate i datum plaćen do.
