@@ -29,11 +29,17 @@ Prosek = ( Uk.Bruto  - Naknade ) / ČasoviRada
 U slučaju da radnik nema Časove rada, program uzima satnicu kao prosek.
 
 Taster "Obr.Regresa" kalkuliše regres posebnim programom, ako je
-taj program uključen kod firme, u protivnom upisuje fikni regres kod svakog.
+taj program uključen kod firme, u protivnom upisuje fiksni regres kod svakog.
 
 Ostale obrade program radi kada pritisnemo taster "Obračun-pl.",
 tj: obradu kredita,radnog staža,putnih troškova, naknade za porodj. 
 i bolovanje preko siz.
+
+Obračun putnih troškova zavisi od dnevnog iznosa. 
+Taj iznos može biti upisan kod 
+[Matič.pod.radnika](../../z_sr/ob102_sr/ob102_sr.md).
+Tu mora biti X za označavanje ako radnik putuje.
+Ako dnevni iznos ovde nije upisan, onda program uzima iznos od Opštine.
 
 Ako iz leve tabele kliknemo na konkretan radnik,
 dobijamo podatke radnika za taj mesec:
@@ -44,7 +50,7 @@ Dole dodajemo časove radnika po šiframa rada.
 Šifarnik časova se definiše kod programa 
 [Časovi](../ob002_sr/ob002_sr.md)
 
-Prosek i Dani ne moraju da se pune, samo u izuzetnim slučajevima.
+Prosek i Dani moraju biti upisani samo u izuzetnim slučajevima.
 Prosek onda, kada je prosek drugačiji od godišnjeg proseka.
 Kod bolovanja obavezno puniti prosek.
 
