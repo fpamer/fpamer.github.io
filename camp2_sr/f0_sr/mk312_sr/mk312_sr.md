@@ -35,7 +35,7 @@ Redove prodaje možemo uvesti i automatski:
 - "Dodati predajnicu" iz proizvodnje
 
 Na desnom delu gornjeg ekrana imamo mogućnost uključivanja "Cene partnera",
-koji daje specijalne proivode i specijelne cene izabranog kupca.
+koji daje specijalne proizvode i specijelne cene izabranog kupca.
 
 Ako redove unosimo ručno, onda u prvi red prodaju upisujemo sa tasterom "Insert".
 
