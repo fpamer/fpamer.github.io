@@ -10,7 +10,8 @@ proizvod broja dana sa 8.
 Zaokruživenje iznosa možemo isto zadati.
 
 Koef. za obrač. boda se množi sa iznosom Ebod upisanim
-kod rasporeda radika: [Raspored-radnika](../../z_sr/ob104_sr/ob104_sr.md)
+kod rasporeda radika: 
+[Raspored-radnika](../../z_sr/ob104_sr/ob104_sr.md)
 
 Pritiskom na **"Podaci"** ulazimo u deo sa podacima plate radnika:
 
@@ -21,7 +22,11 @@ Kod obračuna minulog rada izabrati:
 - U za obračun dodatka na osnovu ukupnog staža
 
 Taster "Obr.proseka" obavezno pritisnuti, ako želimo
-automatski upis proseka svakog radnika.
+automatski upis proseka svakog radnika:
+```
+Prosek = ( Uk.Bruto  - Naknade ) / ČasoviRada 
+```
+U slučaju da radnik nema Časove rada, program uzima satnicu kao prosek.
 
 Taster "Obr.Regresa" kalkuliše regres posebnim programom, ako je
 taj program uključen kod firme, u protivnom upisuje fikni regres kod svakog.
@@ -35,7 +40,9 @@ dobijamo podatke radnika za taj mesec:
 
 ![Image](pl00002.jpg)
 
-Dole dodajemo časove radnika po šiframa rada.
+Dole dodajemo časove radnika po šiframa rada. 
+Šifarnik časova se definiše kod programa 
+[Časovi](../ob002_sr/ob002_sr.md)
 
 Prosek i Dani ne moraju da se pune, samo u izuzetnim slučajevima.
 Prosek onda, kada je prosek drugačiji od godišnjeg proseka.
