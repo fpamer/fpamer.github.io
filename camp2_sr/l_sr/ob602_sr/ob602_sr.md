@@ -59,3 +59,18 @@ na osnovu dva (ili više ) reda prijave.
 
 Kasnije kod štampanja prijave program kontroliše sate i dane,
 pa i MFP , da li je upisano.
+
+U gornjem delu ekrana taster **"Izveštaji"** otvara prozor sa raznim izvešteštajima:
+
+![Image](pl_ob03.jpg)
+
+"Obrač.lista" - za štampanje obračunskih listova svih radnika
+
+"Lista-neto-pl" - za pregled neto plate radnika
+
+"Isplat.lista"  - za pregled iznosa isplate radnicima.
+
+U tim izveštajima možemo dodati (na teret SIZ):
+- X : Dodati iznos za porodjajno 
+- X : Dodati iznos za bolovanje 
+
