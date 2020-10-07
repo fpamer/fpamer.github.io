@@ -12,7 +12,7 @@ Podmenu "Zaposleni" se poziva iz glavnog menija [Glavni meni](../../index_sr.md)
 - [Organiz.Šema](ob101_sr/ob101_sr.md)
 - [Stručna-sprema](ob107_sr/ob107_sr.md)
 
-# Plata opis
+# Plata opis:
 
 Tu su podaci o ličnim primanjima radnika, kao i prijave.
 Zatim ovde su podaci potrebni za obračun plate.
