@@ -11,7 +11,14 @@ Moramo izabrati datum obrade i knjigovodstveni oblast:
 - 1-knjigov
 - 2-poreska
 
-Taster "Knjiženje" kalkuliše i dodaje knjižne redove na svaku karticu osnovnog sredstva.
+Taster "Knjiženje" kalkuliše i dodaje red anortizacije na svaku karticu osnovnog sredstva.
+
+Amortizaciju računamo množenjem broja punih meseca proteklih od 
+zadnje amortizacije (ili nabavke) sa procentom amortizacije i sa
+osnovicom za amortizaciju i delimo sa 12.
+
+Za degresivni metod je osnovica ostatak vrenosti. Taj metod važi i kod knjigov.amortizacije.
+Za proporcionalni metod je osnovica nabavna vrednost.
 
 Poresku amortizaciju kalkuliše u dve etape, posebno za 
 - Pojedinačno (nabavka od 01.01.2019, pojedinačna kalkulacija)
