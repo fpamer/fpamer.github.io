@@ -29,3 +29,6 @@ Taster "Brisati" briše svaku amortizaciju izabrane oblasti za taj datum.
 Kod knjigovodstvene amortizacije imamo samo jedno štampanje.
 
 Kod poreske amortizacije imamo četiri štampanja zavisno od načina i od metode amortizacije.
+
+Uporedni pregled prikazuje i knjigovodstvenu i poresku amortizaciju,
+odn. manju vrednost, koja će biti knjižena.
