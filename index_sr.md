@@ -12,7 +12,7 @@
 - [Proizvodnja]
 - [Knjiženje-mag]
 - [Fakture](camp2_sr/f0_sr/f0_sr.md)
-- [Pogonsko]
+- [Pogonsko](camp2_sr/g_sr/g_sr.md)
 - [Alati](camp2_sr/r1_sr/r1_sr.md)
 - [Fin.podaci]
 - [Obračun-čas]
