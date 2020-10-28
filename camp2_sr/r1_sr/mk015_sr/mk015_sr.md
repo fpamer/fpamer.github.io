@@ -17,8 +17,9 @@ Amortizaciju računamo množenjem broja punih meseca proteklih od
 zadnje amortizacije (ili nabavke) sa procentom amortizacije i sa
 osnovicom za amortizaciju i delimo sa 12.
 
-Za degresivni metod je osnovica ostatak vrenosti. Taj metod važi i kod knjigov.amortizacije.
-Za proporcionalni metod je osnovica nabavna vrednost.
+Metod amortizacije može biti:
+- Proporcionalna , kada je osnovica nabavna vrednost.
+- Degresivna . kada je osnovica ostatak vrenosti.
 
 Poresku amortizaciju kalkuliše u dve etape, posebno za 
 - Pojedinačno (nabavka od 01.01.2019, pojedinačna kalkulacija)
@@ -31,4 +32,7 @@ Kod knjigovodstvene amortizacije imamo samo jedno štampanje.
 Kod poreske amortizacije imamo četiri štampanja zavisno od načina i od metode amortizacije.
 
 Uporedni pregled prikazuje i knjigovodstvenu i poresku amortizaciju,
-odn. manju vrednost, koja će biti knjižena.
+odn. manju vrednost, koja je merodavna za bilans.
+
+Knjiženje amortizacije program radi na osnovu knjigovodstvene
+evidencije.
