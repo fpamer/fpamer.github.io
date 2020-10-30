@@ -4,14 +4,15 @@ Program "Osnovno sredstvo" se poziva iz menija [Alati](../r1_sr.md)
 
 ![Image](os_pod01.jpg)
 
-Metod knjigovodstvene amortizacije može biti:
+Metod knjigovodstvene amortizacije i metod poreske 
+amortizacije u slučaju pojedinačne kartice (nova nabavka):
+
 - Proporcionalna , kada je osnovica nabavna vrednost.
 - Degresivna . kada je osnovica ostatak vrenosti.
 
-Metod poreske amortizacije je definisan u programu 
-[Amortiz-grupe](../mk013_sr/mk013_sr.md).
+Metod poreske amortizacije za slučaj grupne obrade je definisan u programu [Amortiz-grupe](../mk013_sr/mk013_sr.md).
 
-Poresku amortizaciju program kalkuliše posebno za grupe:
+Poresku amortizaciju program kalkuliše:
 - Pojedinačno (nabavka od 01.01.2019, pojedinačna kalkulacija)
 - Grupno (na starim karticama, ali i ovde imamo i pojed.vrednosti)
 
