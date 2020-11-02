@@ -79,10 +79,19 @@ Ako je prijava poslata, onda dobijamo poziv na broj prijave.
 To upisujemo na dokument prijave.
 
 Posle ovoga sledi kreiranje virmana plate.
-
 Upis virmana plate briše i ponovo upiše virmane.
 Plava strelica startuje progam za virmane 
 
 [Elektr-Isplata](../../f0_sr/fk108_sr/fk108_sr.md)
-
 bez ponovnog kreiranja virmana.
+
+## Putni trošak
+
+Putni trošak mora biti upisan ili kod opštine ili kod osnovnih podataka radnika.
+
+Uraditi obradu "Obračun-PT."
+
+Kreirati i poslati poresku prijavu za PT.
+
+Kreirati virmane za PT i exportovati u elektr.isplatu.
+
