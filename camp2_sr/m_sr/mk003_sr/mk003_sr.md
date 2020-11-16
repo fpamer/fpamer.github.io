@@ -1,6 +1,11 @@
 # Proizvod
 
-Program Proizvod se poziva iz menija [Podaci](../m_sr.md)
+Program Proizvod se poziva iz menija: [Podaci](../m_sr.md) .
+
+Proizvodi se proizvode u firmi. Imaju tehnologiju , normativ, itd..
+
+Proizvod može biti gotov (krajnji ) proizvod , i ulazi u magacin gotovih proizvoda,
+i može biti poluproizvod, koji je samo u magacinu pogona ili u medjufaznom lageru.
 
 Za upis novog proizvoda ovde moramo zadati šifru proizvoda u celosti 
 i pritisnuti taster "Upis šifre"
