@@ -15,3 +15,14 @@ Posao radnika biramo iz organizacione šeme:
 Ebod je bruto satnica radnika.
 Kod obračuna plate se on množi sa koeficijentom 
 za obračun boda i tako dobijamo bruto cenu rada po času.
+
+Vrsta RO - radnog odnosa može da bude:
+
+- Osnivač   - Osnivač firme
+- Stalni    - Stalni radni odnos
+- Privrem.  - Radnik primljen na odredjeno vreme
+- Priprav.  - pripravnik
+- Penzioner - Penzioner
+- Maloletni - Maloletani radnik
+- Van RO    - Period rada u drugoj rad.organ.
+
