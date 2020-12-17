@@ -10,7 +10,7 @@
 - [Podaci](camp2_sr/m_sr/m_sr.md)
 - [Planiranje](camp2_sr/p1_sr/p1_sr.md)
 - [Proizvodnja]
-- [Knjiženje-mag]
+- [Knjiženje-mag](camp2_sr/k_sr/k_sr.md)
 - [Fakture](camp2_sr/f0_sr/f0_sr.md)
 - [Pogonsko](camp2_sr/g_sr/g_sr.md)
 - [Alati](camp2_sr/r1_sr/r1_sr.md)
