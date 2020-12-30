@@ -4,7 +4,7 @@ Podmenu "Knjiženje-mag" se poziva iz glavnog menija [Glavni meni](../../index_s
 
 - [Prijem-robe]
 - [Knjiženje-prijema]
-- [Knjiženje-mag]
+- [Knjiženje-mag](mk201_sr/mk201_sr.md)
 - [Dok-parčanja]
 - [Knjiž-maloprodaje]
 - [---]
