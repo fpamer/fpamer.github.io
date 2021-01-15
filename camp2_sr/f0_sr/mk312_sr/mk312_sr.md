@@ -37,6 +37,8 @@ Redove prodaje možemo uvesti i automatski:
 Na desnom delu gornjeg ekrana imamo mogućnost uključivanja "Cene partnera",
 koji daje specijalne proizvode i specijelne cene izabranog kupca.
 
+Taster "Kalk.tež" služi za sumiranje težine svih komada.
+
 Ako redove unosimo ručno, onda u prvi red prodaju upisujemo sa tasterom "Insert".
 
 Posle upisanog reda novi red dodajemo tako što na Rbr1 tog reda stisnemo desni klik.
