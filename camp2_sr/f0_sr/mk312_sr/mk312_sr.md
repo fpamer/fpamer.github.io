@@ -24,6 +24,12 @@ Na sledećoj strani su parametri štampe računa:
 Taster "Knjiž-IF" služi za automatsko knjiženje izlazne fakture: 
 [Knjiž-IF](knjiz_if_sr.md)
 
+Avansni račun posebno treba upisati posle uplate na izvodu
+i vezati za tu uplatu.
+Vrednost avansnog računa se zadaje posebno nezavisno od redova. 
+
+Na konacnom računu imamo taster "Avans" i tu dodajemo već upisane avensne račune da smanjuju vrednost duga na fakturi.
+
 Pritiskom na taster "Podaci" ulazimo u deo programa za upis redova fakture:
 
 ![Image](fakt003.jpg)
@@ -47,7 +53,7 @@ Levi klik služi za modifikaciju nekog reda fakture:
 
 ![Image](fakt004.jpg)
 
-Tip reda biramo iz liste:
+Tip reda biramo sa liste:
 - Proizvod : iz tabele [Proizvod](../../m_sr/mk003_sr/mk003_sr.md)
 - Narudžba : iz tabele [Narudžba](../../p1_sr/pr004_sr/pr004_sr.md)
 - Radna usluga
