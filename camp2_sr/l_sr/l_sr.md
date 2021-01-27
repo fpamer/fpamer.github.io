@@ -3,6 +3,9 @@
 Podmenu "Zaposleni" se poziva iz glavnog menija [Glavni meni](../../index_sr.md)
 
 - [Obračun Plate](ob602_sr/ob602_sr.md) 
+- [Platni-izveštaji]
+- [Obrazac-M4]
+- [PPP-prijava](ob606_sr/ob606_sr.md)
 - [---]
 - [Žiro-račun](ob001_sr/ob001_sr.md)
 - [Časovi](ob002_sr/ob002_sr.md)

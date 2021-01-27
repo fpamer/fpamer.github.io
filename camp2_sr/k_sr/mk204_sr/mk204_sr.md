@@ -29,3 +29,8 @@ Ta podela je tako što se ubaci neki filter,
 koji grupiše podatke, pa se ta grupa odvoji od ostalih,
 pa tako redom i sledeći filter, pa kreiranje grupe .. itd..
 
+Upis nadjenog stanja je moguć kada je faza inventara
+"Otvoren" .
+
+Posle upisa nadjenog stanja inventar staviti u fazu "Zatvoren".
+
