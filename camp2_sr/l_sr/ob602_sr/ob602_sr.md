@@ -26,7 +26,7 @@ automatski upis proseka svakog radnika:
 ```
 Prosek = ( Uk.Bruto  - Naknade ) / ČasoviRada 
 ```
-U slučaju da radnik nema Časove rada, program uzima satnicu kao prosek.
+U slučaju da radnik nema časove rada, program uzima satnicu kao prosek uvećan za procenat minulog rada.
 
 Taster "Obr.Regresa" kalkuliše regres posebnim programom, ako je
 taj program uključen kod firme, u protivnom upisuje fiksni regres kod svakog.
