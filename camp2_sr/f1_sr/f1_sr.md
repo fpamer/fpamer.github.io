@@ -23,4 +23,4 @@ Podmenu "Fin.podaci" se poziva iz glavnog menija [Glavni meni](../../index_sr.md
 - [Evidenc-PDV]
 - [Elektr-Isplata]
 - [Dnevne-Isplate]
-- [Finans-obrade]
+- [Finans-obrade](fk110_sr/fk110_sr.md)

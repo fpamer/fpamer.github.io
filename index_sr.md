@@ -14,7 +14,7 @@
 - [Fakture](camp2_sr/f0_sr/f0_sr.md)
 - [Pogonsko](camp2_sr/g_sr/g_sr.md)
 - [Alati](camp2_sr/r1_sr/r1_sr.md)
-- [Fin.podaci]
+- [Fin.podaci](camp2_sr/f1_sr/f1_sr.md)
 - [Obračun-čas]
 - [Zaposleni](camp2_sr/z_sr/z_sr.md)
 - [Plata](camp2_sr/l_sr/l_sr.md)

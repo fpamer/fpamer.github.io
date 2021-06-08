@@ -46,6 +46,10 @@ dobijamo podatke radnika za taj mesec:
 
 ![Image](pl00002.jpg)
 
+Gornji deo pokazuje parametre obračuna. Interesantno je na primer:
+
+"Dani za topl.obr." - ako ne upisujemo, onda program kalkuliše te dane. Ako upišemo , onda program koristi taj broj.
+
 Dole dodajemo časove radnika po šiframa rada. 
 Šifarnik časova se definiše kod programa 
 [Časovi](../ob002_sr/ob002_sr.md)
