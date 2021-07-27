@@ -14,8 +14,13 @@ Kod obračuna plate program koristi ovde definisane parametre.
 
 ![Image](ob0021.jpg)
 
+Proc.isplate je informativni procenat.
 
-Parametri koji utiču na cenu rada izabrane šifre:
+Koefic.poveć. se koristi kod obračuna plate i utiče na iznos zarade.
+Neki stavljaju da je ovaj koeficijent nula, ako se zarada refundira
+od SIZ-a.
+
+Ostali parametri koji utiču na cenu rada izabrane šifre:
 
 - Aktiv: označava šifru koju obavezno štampamo na listi,	odnosno koja nije zabranjena za korišćenje.
 
@@ -26,7 +31,7 @@ Parametri koji utiču na cenu rada izabrane šifre:
 - Rad.isk     = Da, ako časovi ulaze kod kalk. stimul. za radno iskustvo.
 - Topli obrok = Da, ako časovi ulaze u kalkulaciju toplog obroka.
 - Putni troš. = Da, ako časovi ulaze u kalkulaciju putnih troškova.
-- Garant.neto = Da, ako časove uzimamo u obzir kod garantovane plate. nije za oporezivanje (poreska olakšica)
+- Garant.neto = Da, ako časove uzimamo u obzir kod garantovane plate i ako zaradi pripada poreska olakšica.
 
 Prosek plate se računa od Bruto iznosa plate i od toga
 program odvaja časove kod kojih je Vrsta = Naknada.
