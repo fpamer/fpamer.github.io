@@ -57,7 +57,11 @@ Klikom na početno slovo polja dobijamo popup prozor:
 
 Na opadajućoj listi možemo izabrati način pretrage.
 
-
+Ako je podatak u koloni datum, onda ona može imati:
+```
+- iso-format (sa znakom -):  mm-dd  ,  yyyy-mm-dd
+- ili srpski format (.):     dd.mm  ,  dd.mm.yyyy
+```
 ## 3. Redovi sa podacima
 
 Služe za prikaz podataka. Samo aktivna polja (tamno zelena) daju mogućnost dalje obrade poadataka.
