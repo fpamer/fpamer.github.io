@@ -33,5 +33,10 @@ Ostali parametri koji utiču na cenu rada izabrane šifre:
 - Putni troš. = Da, ako časovi ulaze u kalkulaciju putnih troškova.
 - Garant.neto = Da, ako časove uzimamo u obzir kod garantovane plate i ako zaradi pripada poreska olakšica.
 
+Ako firma isplaćuje bolovanje na teret SIZ, pa kasnije refundira, onda je Garant.neto=Da , koef.poveć=1.
+
+Ako firma ne isplaćuje Bolovanje na teret SIZ, onda kod
+časova bolovanja staviiti Garant.neto=Ne , koef.poveć=0.
+
 Prosek plate se računa od Bruto iznosa plate i od toga
 program odvaja časove kod kojih je Vrsta = Naknada.
