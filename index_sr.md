@@ -3,6 +3,7 @@
 - [Login](camp2_sr/d_sr/login_sr.md)
 - [Tabele](camp2_sr/d_sr/tabela_sr.md)
 - [Fin.Šabloni](camp2_sr/d_sr/fin_sabloni_sr.md)
+- [Spaj.Sastav](camp2_sr/d_sr/spaj_sastav_sr.md)
 
 # Main menu
 

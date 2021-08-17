@@ -1,5 +1,8 @@
 # Finans.Šabloni
 
+Dokumentaciju "Finans.Šabloni" pozivamo iz:  [Glavni meni](../../index_sr.md)
+
+
 Finansijski šabloni se pojavljuju na raznim mestima programa:
 
 ## 1. Kod ulaznih  faktura

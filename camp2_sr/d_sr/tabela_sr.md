@@ -1,5 +1,7 @@
 # Tabele
 
+Dokumentaciju "Tabele" pozivamo iz:  [Glavni meni](../../index_sr.md)
+
 Tabele se pojavljuju svugde u programu.
 Služe i za prikaz i za izbor nekog podatka za rukovanje.
 

@@ -1,7 +1,8 @@
 # Login
 
-Posle startovanja programa dobijamo početni prozor: 
+Dokumentaciju "Login" pozivamo iz:  [Glavni meni](../../index_sr.md)
 
+Posle startovanja programa dobijamo početni prozor: 
 
 ![Image](login.jpg)
 
