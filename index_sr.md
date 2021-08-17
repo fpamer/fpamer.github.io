@@ -2,7 +2,7 @@
 
 - [Login](camp2_sr/d_sr/login_sr.md)
 - [Tabele](camp2_sr/d_sr/tabela_sr.md)
-- [Fin.Šabloni](camp2_sr/d_sr/fins_abloni_sr.md)
+- [Fin.Šabloni](camp2_sr/d_sr/fin_sabloni_sr.md)
 
 # Main menu
 
