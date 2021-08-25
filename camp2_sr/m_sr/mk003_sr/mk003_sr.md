@@ -39,7 +39,7 @@ Nivo prozvoda :
 - 6 - složen deo
 - 7 - paket
 
-Ako je nivo 1,2,3 , onda se taj proizvod lansira i dobije Radni Nalog. Usluga (nivo 3) ne mora imati tehnol. operacije medjutim normativ moraju imati.
+Ako je nivo 1,2,3 , onda se taj proizvod lansira i dobije Radni Nalog. Usluga (nivo 3) ne mora imati normativ, medjutim tehnol. operacije moraju imati svi u ovoj grupi.
 
 Ako je nivo 4,5,6 , onda se taj proizvod ne lansira, već se sastavlja od nižih nivoa u magacinu gotove robe, ili
 se samo pakuje , ako je paket (nivo 7).
