@@ -6,9 +6,17 @@ Posle izbora narudžbe imamo:
 
 ![Image](lans_start01.jpg)
 
+Faza narudžbe može da bude:
+
+U - Upisana narudžba bez obrade
+
+P - Potrebe su upisane , izrada nije lansirana
+
+L - Lansirani su nalozi da zadovolje potrebe
+
 ## Nova obrada
 
-## Plan ugradnje
+## U - Plan ugradnje
 
 Kod plana ugradnje planiramo izradu narudžbe:
 
@@ -24,6 +32,23 @@ gde je kupac sopstvena firma.
 
 ![Image](plan_ugr01.jpg)
 
-## Potrebe-delova
+### Parametri:
 
-## Dokumentacija
+Na desnoj strani posle ulaza u ovaj deo imamo taster "Parametri".
+Ovde biramo parametre rezervacije naloga:
+
+![Image](parametri_ugr01.jpg)
+
+Kod " kradje "  imamo odredjene uslove , koji 
+zabranjuju ili dozvoljavaju ugradnju komada jedne
+narudžbe u drugu.
+- samo narudžba sopstvene izrade može da nudi
+  svoje naloge za kradju komada.
+- samo narudžba kupca može prihvatiti te slobodne komade
+  i ugraditi ih u svoju strukturu.
+
+## D - Potrebe-delova
+
+## M - Potrebe-materijala
+
+## T - Tehnološka dokumentacija
