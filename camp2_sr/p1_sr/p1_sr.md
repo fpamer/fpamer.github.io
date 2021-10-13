@@ -9,5 +9,5 @@ Podmenu "Planiranje" se poziva iz glavnog menija [Glavni meni](../../index_sr.md
 - [Kalk-ponude](pr007_sr/pr007_sr.md)
 - [---]
 - [Lansiranje](pr006_sr/pr006_sr.md)
+- [Nabavka](../p11_sr/p11_sr.md)
 - [Prodaja](../p12_sr/p12_sr.md)
-
