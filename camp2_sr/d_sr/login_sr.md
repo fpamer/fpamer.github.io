@@ -17,10 +17,3 @@ u kojoj želimo da radimo.
 
 Taster `Enter` na tastaturi završava unos, ali
 isto se dešava i klikom na dugme **Enter**.
-
-Preuzimanje programa ispod windows op.sistema:
-
-Snimiti link na C: 
-
-[Download](..\..\camp2\camp2.7z)
-
