@@ -5,6 +5,7 @@
 - [Fin.Šabloni](camp2_sr/d_sr/fin_sabloni_sr.md)
 - [Spaj.Sastav](camp2_sr/d_sr/spaj_sastav_sr.md)
 - [Prom.Proizv.RN](camp2_sr/d_sr/pr_sr/propro_nal_sr.md)
+- [Download camp2](camp2_sr/d_sr/dload_sr.md)
 
 # Main menu
 
