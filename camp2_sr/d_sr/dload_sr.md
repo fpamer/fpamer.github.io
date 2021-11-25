@@ -11,3 +11,12 @@ Program će pitati parametre startovanja:
     Firma:     (skraćeni naziv firme)
     Code:      (lozinka za preuzimanje)
 ```
+
+Podešavanje srpske azbuke za camp2 program:
+
+```
+-> Settings -  Administrative language settings
+
+Zatim za non-Unicode programe izabrati:  
+   Serbian (Latin,Serbia)
+```
