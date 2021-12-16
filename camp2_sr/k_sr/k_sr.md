@@ -8,7 +8,7 @@ Podmenu "Knjiženje-mag" se poziva iz glavnog menija [Glavni meni](../../index_s
 - [Dok-parčanja]
 - [Knjiž-maloprodaje]
 - [---]
-- [Knjiž-predaje]
+- [Knjiž-predaje](pr208_sr/pr208_sr.md)
 - [Knjiž-Kepu]
 - [Mag.obrade]
 - [Inventar](mk204_sr/mk204_sr.md)
