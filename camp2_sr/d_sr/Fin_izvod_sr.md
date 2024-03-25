@@ -10,7 +10,7 @@ Proces za import Izvoda od OTP banke:
 
 ## 2. Otvoriti Finans. nalog  za izvod:
 
-![Image](2_Fin_izvodjpg)
+![Image](2_Fin_izvod.jpg)
 
 ## 3. Pritisnutu taster "Uvezi izvod.xml" 
 
