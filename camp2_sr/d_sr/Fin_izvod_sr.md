@@ -1,21 +1,21 @@
 # Finans.Izvodi
 
-Dokumentaciju "Finans.Izvodi" pozivamo iz:  [Glavni meni](../../index_sr.md)
+Dokumentaciju "Finans.Izvod" pozivamo iz:  [Glavni meni](../../index_sr.md)
 
 Proces za import Izvoda od OTP banke:
 
 ## 1. Upisati konto kod Banke OTP
 
-![Image](fsablon_uf01.jpg)
+![Image](1_Banka_OTP.jpg)
 
 ## 2. Otvoriti Finans. nalog  za izvod:
 
-![Image](fsablon_uf01.jpg)
-
-Finansijski šabloni se pojavljuju na raznim mestima programa:
+![Image](2_Fin_izvodjpg)
 
 ## 3. Pritisnutu taster "Uvezi izvod.xml" 
- 
+
+![Image](3_Izvod_OTP.jpg)
+
 Izabrati datoteku bez dodatnih oznaka: 
 
  2024-0000000000000000-00.xml
