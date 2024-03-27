@@ -12,7 +12,7 @@ Proces za import Izvoda od OTP banke:
 
 ![Image](2_Fin_nalog.jpg)
 
-## 3. Pritisnutu taster "Uvezi izvod.xml" 
+## 3. Pritisnuti taster "Uvezi izvod.xml" 
 
 ![Image](3_Izvod_OTP.jpg)
 
